@@ -1,2 +1,2 @@
 # QRegovarLauncher
-Launcher of the QRegovar client (that automaticaly check installation updatde)
+Launcher of the QRegovar client (that automatically checks installation update)
